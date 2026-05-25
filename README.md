@@ -14,6 +14,9 @@ Steps
 4. Run:
    java Main
 
+     OR
+-Run the .jar file
+
 ## Features
 - Minimax AI with alpha-beta pruning
 - Score tracking
